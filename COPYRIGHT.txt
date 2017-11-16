@@ -1,0 +1,5 @@
+Copyright Mara Golzman and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/chicasentec/mumuki-guia-text-analicemos-el-lenguaje and the AUTHORS.txt file.
